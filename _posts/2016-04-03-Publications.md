@@ -25,7 +25,7 @@ _**Microbiome**_, 13(1):222. [Link](https://doi.org/10.1186/s40168-025-02271-y)
 _**ISME Communications**_. [Link](https://doi.org/10.1093/ismeco/ycae147)
 
 - Vasquez YM, Nardi T, Terasaki GM, Byl P, Bruna T, **Villada JC**, ..., & Schulz F (**2025**). Genome-resolved expansion of Nucleocytoviricota and Mirusviricota reveals new diversity, functional potential, and biotechnological applications.
-_**bioRxiv**_.
+_**bioRxiv**_. [Link](https://doi.org/10.1101/2025.09.26.678796)
 
 - **Villada JC** & Schulz F (**2022**). The endosymbiotic box of protective tricks.
 _**Nature Reviews Microbiology**_. [Link](https://doi.org/10.1038/s41579-022-00727-8)
