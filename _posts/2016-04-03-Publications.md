@@ -10,13 +10,13 @@ _**Nature Communications**_. [Link](https://doi.org/10.1038/s41467-026-68871-w)
 _**Nucleic Acids Research**_. [Link](https://doi.org/10.1093/nar/gkaf1419)
 
 - **Villada JC**, Yumary M Vasquez, Gitta Szabo, Ewan Whittaker-Walker, Miguel F Romero, Sarina Qin, Neha Varghese, Emiley A Eloe-Fadrosh, Nikos C Kyrpides, SymGs data consortium, Axel Visel, Tanja Woyke, & Frederik Schulz (**2026**). A genomic catalog of Earth's bacterial and archaeal symbionts.
-_**bioRxiv**_ (in review at _**Nature Biotechnology**_, NBT-RE67528). [Link](https://doi.org/10.1101/2025.05.29.656868)
+_**bioRxiv**_ [Link](https://doi.org/10.1101/2025.05.29.656868)
 
 - Bushnell B, **Villada JC** (**2026**). Deployable high-fidelity metagenome binning at scale with QuickBin.
-_**bioRxiv**_ (in review at _**Nature Methods**_, NMETH-A64500-T). [Link](https://doi.org/10.64898/2026.01.08.698506)
+_**bioRxiv**_ [Link](https://doi.org/10.64898/2026.01.08.698506)
 
 - Bushnell B, Schulz F, **Villada JC** (**2026**). Rapid terabase-scale simulation of realistic metagenomes for experimental design and pathogen detection with RandomReadsMG.
-_**bioRxiv**_ (in review at _**Cell Genomics**_, CELL-GENOMICS-D-25-00730). [Link](https://doi.org/10.1101/2025.07.18.665570)
+_**bioRxiv**_ [Link](https://doi.org/10.1101/2025.07.18.665570)
 
 - Bowers RM, Bennett S, Riley R, **Villada JC**, Da Silva IR, Woyke T, & Frank AC (**2025**). Host species and geographic location shape microbial diversity and functional potential in the conifer needle microbiome.
 _**Microbiome**_, 13(1):222. [Link](https://doi.org/10.1186/s40168-025-02271-y)
@@ -25,7 +25,7 @@ _**Microbiome**_, 13(1):222. [Link](https://doi.org/10.1186/s40168-025-02271-y)
 _**ISME Communications**_. [Link](https://doi.org/10.1093/ismeco/ycae147)
 
 - Vasquez YM, Nardi T, Terasaki GM, Byl P, Bruna T, **Villada JC**, ..., & Schulz F (**2025**). Genome-resolved expansion of Nucleocytoviricota and Mirusviricota reveals new diversity, functional potential, and biotechnological applications.
-_**bioRxiv**_ (in review at _**Nature Microbiology**_).
+_**bioRxiv**_.
 
 - **Villada JC** & Schulz F (**2022**). The endosymbiotic box of protective tricks.
 _**Nature Reviews Microbiology**_. [Link](https://doi.org/10.1038/s41579-022-00727-8)
