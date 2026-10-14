@@ -16,9 +16,9 @@ highlighter: rouge
 
 ### content configuration ###
 title: Juan C. Villada
-keywords: bioinformatics, microbiology, metabolic networks, codon usage
-description: Computational Microbiology
-source_link: "https://github.com/juanvillada"
+keywords: bioinformatics, metagenomics, microbiology, machine learning, microbial symbionts, metabolic networks, codon usage
+description: Juan C. Villada, Ph.D. — Data Scientist at the DOE Joint Genome Institute, Lawrence Berkeley National Laboratory. Metagenomics, microbial symbionts, and computational microbiology.
+source_link: "https://github.com/juanvillada/juanvillada.github.io"
 favicon:     #"img/favicon.ico"
 touch_icon:  #"img/apple-touch-icon.png"
 google_analytics_key:  UA-76401379-1
