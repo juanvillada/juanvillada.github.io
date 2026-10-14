@@ -6,7 +6,7 @@ fa-icon: newspaper-o
 - **Villada JC**, Vasquez YM, Szabó G, Whittaker-Walker E, Romero MF, Qin S, Varghese N, Eloe-Fadrosh EA, Kyrpides NC, SymGs data consortium, Visel A, Woyke T, & Schulz F (**2026**). A genomic catalog of Earth's bacterial and archaeal symbionts.<br>
   _**Nature Biotechnology**_. [Link](https://doi.org/10.1038/s41587-026-03213-1) · Published online 31 August 2026.
 
-  _Related Research Briefing:_ Machine learning interprets genome sequences to map possible microbial symbionts.<br>
+- _Related Research Briefing:_ Machine learning interprets genome sequences to map possible microbial symbionts.<br>
   _**Nature Biotechnology**_. [Link](https://doi.org/10.1038/s41587-026-03212-2) · Published online 2 September 2026.
 
 - Bushnell B, Schulz F, **Villada JC** (**2026**). RandomReadsMG: Rapid, realistic metagenome simulation at terabase scale for benchmarking and experimental design.<br>
